@@ -7,7 +7,6 @@ import UpdateEmployee from "./components/UpdateEmployee";
 
 function App() {
 
-
     return (
         <>
             <BrowserRouter>
